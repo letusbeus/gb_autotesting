@@ -1,0 +1,16 @@
+host: '0.0.0.0'
+user: 'user2'
+passwd: '1234'
+pocket_name: 'p7zip-full'
+log_txt: loging_file_ssh.txt
+log_txt_negative: loging_file_ssh_negative.txt
+folder_original: /home/user2/test
+folder_in: /home/user2/test/tst
+folder_out: /home/user2/test/out
+folder_ext: /home/user2/test/folder1
+folder_ext2: /home/user2/test/folder2
+files_count: 5
+bs: 1M
+arx_name: arx3
+arx_type: 7z
+log_check_txt: loging_file_checker.txt
